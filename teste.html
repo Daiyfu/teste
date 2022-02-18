@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>Teste</title>
+<title>Info</title>
 </head>
 <body>
-<a href="https://daiyfu.github.io/info/">Pagina principala</a>
+<a href="https://daiyfu.github.io/info/">Comp. paginii web</a>
 </body>
 </html>
